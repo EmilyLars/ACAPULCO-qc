@@ -1,0 +1,9 @@
+# Participant data and ratings never go in the repo
+QC_data/
+batch_*.txt
+*.nii
+*.nii.gz
+examples/demo_acapulco/
+__pycache__/
+*.pyc
+.DS_Store
